@@ -2,7 +2,7 @@
  (name           srfi-230)
  (version        0.1)
  (license        "MIT")
- (authors        "Justin Ethier")
+ (authors        "Justin Ethier, Marc Nieper-Wißkirchen")
  (maintainers    "Justin Ethier <justin.ethier at gmail dot com>")
  (description    "Atomic Operations")
  (tags           "srfi")
